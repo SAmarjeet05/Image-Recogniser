@@ -1,5 +1,7 @@
 # 🖼️ Image Recogniser
 
+🚀 Live Demo: https://image-recogniser.streamlit.app/
+
 An interactive web application for image recognition using the **MobileNetV2** deep learning model. The model comes pre-trained on the **ImageNet** dataset, allowing it to correctly identify up to 1,000 different object categories in photographs without requiring custom dataset training or high-performance GPUs.
 
 ---
